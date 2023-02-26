@@ -1,0 +1,15 @@
+{
+    "name": "Innuendo Solutions",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "tabs"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "options_page": "script.html"
+}
