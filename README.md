@@ -3,9 +3,11 @@ Discord Automation chrome extension
 
 Innuendo Solutions is a powerful discord tool.
 
-- Put "dist" folder like extension in chrome extension's page.
+- npm i in both extension folders
+- Generate "dist" folder with webpack using command npm run build in client folder
+- Put genereted "dist" folder into chrome extension (see guides)
 - Automate your discord actions.
-- ✨Magic ✨
+- ✨Magic✨
 
 ## Build with:
 
